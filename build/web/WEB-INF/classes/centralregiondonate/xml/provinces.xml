@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<provinces xmlns="http://www.centralregiondonate.provinces.com"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:schemaLocation="http://www.centralregiondonate.provinces.com provinces.xsd">
+    <province>
+        <provinceName>Thanh Hoá</provinceName>
+        <population>34266000</population>
+    </province>
+    <province>
+        <provinceName>Nghệ An</provinceName>
+        <population>29520000</population>
+    </province>
+    <province>
+        <provinceName>Hà Tĩnh</provinceName>
+        <population>12305000</population>
+    </province>
+    <province>
+        <provinceName>Quảng Bình</provinceName>
+        <population>8579000</population>
+    </province>
+    <province>
+        <provinceName>Quảng Trị</provinceName>
+        <population>6081000</population>
+    </province>
+    <province>
+        <provinceName>Thừa Thiên Huế</provinceName>
+        <population>11145000</population>
+    </province>
+    <province>
+        <provinceName>Đà Nẵng</provinceName>
+        <population>9738000</population>
+    </province>
+    <province>
+        <provinceName>Quảng Nam</provinceName>
+        <population>14501000</population>
+    </province>
+    <province>
+        <provinceName>Quảng Ngãi</provinceName>
+        <population>12279000</population>
+    </province>
+    <province>
+        <provinceName>Bình Định</provinceName>
+        <population>15018000</population>
+    </province>
+    <province>
+        <provinceName>Phú Yên</provinceName>
+        <population>8772000</population>
+    </province>
+    <province>
+        <provinceName>Khánh Hoà</provinceName>
+        <population>11830000</population>
+    </province>
+    <province>
+        <provinceName>Ninh Thuận</provinceName>
+        <population>5767000</population>
+    </province>
+    <province>
+        <provinceName>Bình Thuận</provinceName>
+        <population>11935000</population>
+    </province>
+</provinces>

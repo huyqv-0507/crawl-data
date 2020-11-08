@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://www.centralregiondonate.medicines.com" uri="www.centralregiondonate.medicines.com"/>
+    <system systemId="http://www.centralregiondonate.rices.com" uri="www.centralregiondonate.rices.com"/>
+    <system systemId="http://www.centralregiondonate.noo.com" uri="www.centralregiondonate.noo.com"/>
+    <system systemId="http://www.centralregiondonate.provinces.com" uri="www.centralregiondonate.provinces.com"/>
+</catalog>

@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+<xs:schema version="1.0"
+           xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           targetNamespace="http://www.centralregiondonate.appurl.com"
+           xmlns="http://www.centralregiondonate.appurl.com"
+           elementFormDefault="qualified">
+    <xs:element name="urls" type="urls"/>
+    <xs:complexType name="urls">
+        <xs:sequence>
+            <xs:element name="url" type="url" maxOccurs="unbounded"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="url">
+        <xs:sequence>
+            <xs:element name="rootUrl" type="xs:string"/>
+            <xs:element name="categoriesUrl" type="categoriesUrl"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="categoriesUrl">
+        <xs:sequence>
+            <xs:element name="categoryUrl" type="xs:string" maxOccurs="unbounded"/>
+        </xs:sequence>
+    </xs:complexType>
+</xs:schema>

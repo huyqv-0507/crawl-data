@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rices xmlns="http://www.centralregiondonate.rices.com"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.centralregiondonate.rices.com rices.xsd">
+    <rice>
+        <riceName>504 cũ</riceName>
+        <price>11500.0</price>
+    </rice>
+    <rice>
+        <riceName>64 thơm</riceName>
+        <price>12000.0</price>
+    </rice>
+    <rice>
+        <riceName>Bắc hương</riceName>
+        <price>20000.0</price>
+    </rice>
+    <rice>
+        <riceName>Bụi sữa</riceName>
+        <price>11000.0</price>
+    </rice>
+    <rice>
+        <riceName>Hàm châu</riceName>
+        <price>13000.0</price>
+    </rice>
+    <rice>
+        <riceName>Hương lài</riceName>
+        <price>15000.0</price>
+    </rice>
+    <rice>
+        <riceName>Hương mùa mới</riceName>
+        <price>15000.0</price>
+    </rice>
+    <rice>
+        <riceName>Hữu cơ st24</riceName>
+        <price>25000.0</price>
+    </rice>
+    <rice>
+        <riceName>Jasmine</riceName>
+        <price>15000.0</price>
+    </rice>
+    <rice>
+        <riceName>Kim kê</riceName>
+        <price>19000.0</price>
+    </rice>
+    <rice>
+        <riceName>Lài nhật</riceName>
+        <price>15000.0</price>
+    </rice>
+    <rice>
+        <riceName>Lài sữa thơm</riceName>
+        <price>17000.0</price>
+    </rice>
+    <rice>
+        <riceName>Long lài</riceName>
+        <price>18000.0</price>
+    </rice>
+    <rice>
+        <riceName>Miên campuchia</riceName>
+        <price>35000.0</price>
+    </rice>
+    <rice>
+        <riceName>Móng chim</riceName>
+        <price>17000.0</price>
+    </rice>
+    <rice>
+        <riceName>Nàng hoa</riceName>
+        <price>16000.0</price>
+    </rice>
+    <rice>
+        <riceName>Nàng hương</riceName>
+        <price>16000.0</price>
+    </rice>
+    <rice>
+        <riceName>Nàng thơm</riceName>
+        <price>18000.0</price>
+    </rice>
+    <rice>
+        <riceName>Nàng xuân</riceName>
+        <price>25000.0</price>
+    </rice>
+    <rice>
+        <riceName>Nương sơn la</riceName>
+        <price>18000.0</price>
+    </rice>
+    <rice>
+        <riceName>Phka rom dual</riceName>
+        <price>35000.0</price>
+    </rice>
+    <rice>
+        <riceName>Sa mơ</riceName>
+        <price>14500.0</price>
+    </rice>
+    <rice>
+        <riceName>Sa ri hạt nhỏ</riceName>
+        <price>15000.0</price>
+    </rice>
+    <rice>
+        <riceName>Tài nguyên cđ</riceName>
+        <price>18000.0</price>
+    </rice>
+    <rice>
+        <riceName>Tài nguyên la</riceName>
+        <price>13000.0</price>
+    </rice>
+    <rice>
+        <riceName>Tài nguyên thơm</riceName>
+        <price>15000.0</price>
+    </rice>
+    <rice>
+        <riceName>Tám râu</riceName>
+        <price>15000.0</price>
+    </rice>
+    <rice>
+        <riceName>Tám thơm 6 tháng</riceName>
+        <price>25000.0</price>
+    </rice>
+    <rice>
+        <riceName>Tám xoan</riceName>
+        <price>15000.0</price>
+    </rice>
+    <rice>
+        <riceName>Thái lan nhập khẩu</riceName>
+        <price>35000.0</price>
+    </rice>
+    <rice>
+        <riceName>Thái xk</riceName>
+        <price>14000.0</price>
+    </rice>
+    <rice>
+        <riceName>Thơm hà nội</riceName>
+        <price>15000.0</price>
+    </rice>
+    <rice>
+        <riceName>Thơm lài aaa</riceName>
+        <price>14000.0</price>
+    </rice>
+    <rice>
+        <riceName>Thơm lài miên</riceName>
+        <price>16000.0</price>
+    </rice>
+    <rice>
+        <riceName>Thơm mỹ</riceName>
+        <price>13000.0</price>
+    </rice>
+    <rice>
+        <riceName>Thơm thái</riceName>
+        <price>13000.0</price>
+    </rice>
+    <rice>
+        <riceName>Thơm thái lan</riceName>
+        <price>16000.0</price>
+    </rice>
+    <rice>
+        <riceName>Thơm thiên hương</riceName>
+        <price>18000.0</price>
+    </rice>
+    <rice>
+        <riceName>Thơm đài loan</riceName>
+        <price>16000.0</price>
+    </rice>
+    <rice>
+        <riceName>Đài loan hạt nhỏ</riceName>
+        <price>20000.0</price>
+    </rice>
+    <rice>
+        <riceName>Đài loan đb</riceName>
+        <price>18000.0</price>
+    </rice>
+</rices>

@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+<xs:schema version="1.0"
+           xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           targetNamespace="http://www.centralregiondonate.medicines.com"
+           xmlns="http://www.centralregiondonate.medicines.com"
+           elementFormDefault="qualified">
+    <!-- Declare medicines -->
+    
+    <xs:element name="medicines" type="Medicines"/>
+    <xs:complexType name="Medicines">
+        <xs:sequence>
+            <xs:element name="medicine" type="Medicine" maxOccurs="unbounded"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="Medicine">
+        <xs:sequence>
+            <xs:element name="medicineName" type="xs:string"/>
+            <xs:element name="url" type="xs:string"/>
+            <xs:element name="price" type="xs:decimal"/>
+            <xs:element name="packing" type="xs:string"/>
+            <xs:element name="description" type="xs:string" minOccurs="0"/>
+            <xs:element name="categoryName" type="CategoryMedicineType"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:simpleType name="CategoryMedicineType">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="Thuốc cảm lạnh, ho"/>
+            <xs:enumeration value="Thuốc giảm đau, hạ sốt"/>
+            <xs:enumeration value="Thuốc thuốc da liễu"/>
+            <xs:enumeration value="Thuốc kháng dị ứng"/>
+            <xs:enumeration value="Thuốc kháng viêm"/>
+            <xs:enumeration value="Thuốc tiêu hoá"/>
+            <xs:enumeration value="Viatamin và khoáng chất"/>
+        </xs:restriction>
+    </xs:simpleType>
+</xs:schema>

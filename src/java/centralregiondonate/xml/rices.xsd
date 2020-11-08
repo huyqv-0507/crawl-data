@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+<xs:schema version="1.0"
+           xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           targetNamespace="http://www.centralregiondonate.rices.com"
+           xmlns="http://www.centralregiondonate.rices.com"
+           elementFormDefault="qualified">
+    <xs:element name="rices" type="Rices"/>
+    <xs:complexType name="Rices">
+        <xs:sequence>
+            <xs:element name="rice" type="Rice" maxOccurs="unbounded"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="Rice">
+        <xs:sequence>
+            <xs:element name="riceName" type="xs:string"/>
+            <xs:element name="price" type="xs:decimal"/>
+        </xs:sequence>
+    </xs:complexType>
+</xs:schema>

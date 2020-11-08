@@ -1,0 +1,1229 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<noodles xmlns="http://www.centralregiondonate.noodles.com"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://www.centralregiondonate.noodles.com noodles.xsd">
+    <noodle>
+        <noodleName>Thùng 30 gói mì Gấu Đỏ vị tôm và gà sợi phở 63g</noodleName>
+        <price>75000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói mì Gấu Đỏ tôm chua cay 65g</noodleName>
+        <price>75000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói mì chay Gấu Đỏ rau nấm 63g</noodleName>
+        <price>68000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói mì Gấu Đỏ thịt bằm 64g</noodleName>
+        <price>68000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói Mì Gấu đỏ Bò bít tết hành phi 64g</noodleName>
+        <price>75000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói mì Gấu Đỏ tôm và gà 63g</noodleName>
+        <price>68000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Cháo Gấu Đỏ thịt bằm 50g thùng 50 gói</noodleName>
+        <price>150000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói mì 3 Miền chay lá đa 65g</noodleName>
+        <price>68000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói mì 3 Miền tôm chua cay 65g</noodleName>
+        <price>75000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói mì 3 Miền tôm hùm 65g</noodleName>
+        <price>68000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói Mì Hảo Hảo tôm chua cay 75g</noodleName>
+        <price>137500.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói mì Hảo 100 hương vị tôm chua cay 65g</noodleName>
+        <price>109000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói vị bò Đệ Nhất gói 65g</noodleName>
+        <price>260000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói Bún giò heo Hằng Nga 75g</noodleName>
+        <price>234000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Hủ tiếu Nam Vang Nhịp Sống Acecook 70g thùng 30 gói</noodleName>
+        <price>250000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Mì trứng Safoco sợi nhỏ 500g thùng 20 gói</noodleName>
+        <price>480000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Mì trứng Safoco cao cấp gói 500g thùng 10 gói</noodleName>
+        <price>300000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói mì xào khô Hảo Hảo vị tôm hành 75g</noodleName>
+        <price>150000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói Mì Hảo Hảo tôm xào chua ngọt 75g</noodleName>
+        <price>150000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói Mì Hảo Hảo chay rau nấm Acecook 74g</noodleName>
+        <price>150000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói mì 3 Miền Gold Reeva thịt bằm sa tế 75g</noodleName>
+        <price>150000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói Mì 3 Miền Gold Reeva chua cay Thái 75g</noodleName>
+        <price>150000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói mì 3 Miền bò hầm rau thơm Gold Reeva 75g</noodleName>
+        <price>150000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói mì 3 Miền Gold vị tôm chua cay đặc biệt 75g</noodleName>
+        <price>150000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói mì 3 Miền vị bò sợi phở 65g</noodleName>
+        <price>190000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Cháo sườn 3 Miền Reeva 50g thùng 50 gói</noodleName>
+        <price>140000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Cháo 3 Miền Reeva thịt bằm 50g thùng 50 gói</noodleName>
+        <price>140000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Cháo gà 3 Miền Reeva 50g (1t/50 gói)</noodleName>
+        <price>120000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói Mì Kokomi tôm chua cay 65g</noodleName>
+        <price>70000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Mì Omachi sốt bò hầm 80g thùng 30 gói</noodleName>
+        <price>261000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Mì Omachi sườn hầm ngũ quả 80g thùng 30 gói</noodleName>
+        <price>261000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói Mì Mama thịt heo bằm 60g</noodleName>
+        <price>219000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói mì chay Mama vị rau củ 62g</noodleName>
+        <price>220000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Mì Vị Hương chay thập cẩm 65g thùng 30 gói</noodleName>
+        <price>80000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói Mì chay rau nấm Phúc Hảo 65g</noodleName>
+        <price>120000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Mì Jumbo Koreno vị kim chi Paldo gói 1kg thùng 10 gói</noodleName>
+        <price>800000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói mì xào Colusa Miliket 85g</noodleName>
+        <price>165000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói mì chay thập cẩm Tân Bình Phúc Hảo 60g</noodleName>
+        <price>90000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Mì Miliket tôm 80g thùng 30 gói</noodleName>
+        <price>110000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói mì Miliket thập cẩm hải sản 70g</noodleName>
+        <price>119000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Mì chay Miliket 70g thùng 30 gói</noodleName>
+        <price>93000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Mì Miliket giấy 75g thùng 30 gói</noodleName>
+        <price>90000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói Mì gà tím ăn liền chua cay Vifon 75g</noodleName>
+        <price>170000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Miến vị thịt bằm Phú Hương 58g thùng 48 gói</noodleName>
+        <price>400000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói Hủ tiếu nam vang Vifon 65g</noodleName>
+        <price>200000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói Phở bò Vifon 65g</noodleName>
+        <price>200000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói Mì Đệ Nhất thịt bằm 82g</noodleName>
+        <price>280000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói mì Lẩu Thái vị tôm 80g</noodleName>
+        <price>250000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói Mì ăn liền hương vị thịt xào Aone 85g</noodleName>
+        <price>190000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Mì tô Aone 75g thùng 12 tô</noodleName>
+        <price>110000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Mì chay rau nấm Lá Bồ Đề Bình Tây 63g thùng 30 gói</noodleName>
+        <price>125000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Phở chay lá bồ đề Bình Tây</noodleName>
+        <price>175000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Lốc 5 mì khô gà cay Samyang 140g</noodleName>
+        <price>119000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Mì ly khô gà cay Samyang 70g</noodleName>
+        <price>28000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Mì phô mai gà cay Samyang 140g</noodleName>
+        <price>31000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Mì khô gà cay lạnh Samyang 151g</noodleName>
+        <price>31000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói Mì trộn Ottogi vị tương đen Bắc Kinh gói 83g</noodleName>
+        <price>349000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Mì Bò Samyang 120g</noodleName>
+        <price>27000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>5 Mì Nongshim Soon Veggie Ramyun chay gói 112g</noodleName>
+        <price>156000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Mì ly Kimchi Ramen Nongshim 75g</noodleName>
+        <price>28000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Mì Kimchi Ramen Nongshim 120g</noodleName>
+        <price>28000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Mì tô Shin Cup NongShim 116g</noodleName>
+        <price>40000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Mì ly Shin Cup Nongshim 75g</noodleName>
+        <price>29000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Mì Shin Ramyun Nongshim 120g</noodleName>
+        <price>28000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Mì Nongshim Ramyun 85g</noodleName>
+        <price>22000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Mì Neoguri Seafood Spicy Nongshim 120g</noodleName>
+        <price>26000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Mì Cham-pong Ramyun Nongshim 124g</noodleName>
+        <price>30000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Bánh snack Tako chips Nongshim 60g</noodleName>
+        <price>26000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Bánh snack khoai lang Nongshim 55g</noodleName>
+        <price>26000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Bánh snack tôm cay Nongshim 75g</noodleName>
+        <price>26000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Bánh snack hương chuối Nongshim 45g (1t/30 gói)</noodleName>
+        <price>610000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Bánh snack hành Nongshim 50g (1t/20 gói)</noodleName>
+        <price>440000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Bánh xốp ngũ cốc nhân phô mai Samyang 80g (1t/20 gói)</noodleName>
+        <price>950000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Tảo biển vị truyền thống Kimnori 40g (1t/20 gói)</noodleName>
+        <price>660000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Tảo Kimnori vị hải sản 40g (1t/20 gói)</noodleName>
+        <price>0.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Tảo biển vị cay Kimnori gói 40g (1t/20 gói)</noodleName>
+        <price>660000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Tảo Teriyaki 15g (1t/24 gói)</noodleName>
+        <price>560000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Tảo cuốn cơm Godbawee 20g (1t/130 gói)</noodleName>
+        <price>3400000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Tảo biển Wild Sonka lốc 3 gói x 4g (1t/24 lốc)</noodleName>
+        <price>700000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Tảo biển Green Sonka lốc 3 gói x 4g (1t/24 lốc)</noodleName>
+        <price>700000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Tảo biển vị Wasabi lốc 3 gói x 5g (1t/36 lốc)</noodleName>
+        <price>1010000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Tảo biển Green Dr.Kim lốc 3 gói x 5g (1t/36 lốc)</noodleName>
+        <price>1010000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Tảo biển vị kim chi Godbawee lốc 3 gói x 5g (1t/36 lốc)</noodleName>
+        <price>1080000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Tảo biển Mini Type Godbawee lốc 8 gói x 2g (1t/45 lốc)</noodleName>
+        <price>1440000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Miến khô khoai lang Dongwon 300g (1t/20 gói)</noodleName>
+        <price>1090000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Mì Samyang không vị 110g (1t/40 gói)</noodleName>
+        <price>400000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Mì kim chi Samyang gói 120g (1t/20 gói)</noodleName>
+        <price>430000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Mì rau hỗn hợp Samyang gói 115g (1t/40 gói)</noodleName>
+        <price>26000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Mì Samyang Ramen gói 120g (1t/40 gói)</noodleName>
+        <price>22000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Mì ly Samyang Ramen 65g (1t/30 ly)</noodleName>
+        <price>25000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Mì Udon Bongojang Hanil Food gói 200g (1t/50 gói)</noodleName>
+        <price>18000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Mì Deuchi gói 200g (1t/50 gói)</noodleName>
+        <price>18000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Mì sợi spaghetti Hanil Food gói 180g (1t/50 gói)</noodleName>
+        <price>18000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Mì ly Udon Katsuo nguyên vị Hanil Food cốc 120g (1t/24 ly)</noodleName>
+        <price>37000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Mì udon N nguyên vị Bon Go Jang Hanil Food gói 225g (1t/30 gói)</noodleName>
+        <price>32000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Mì Udon N vị tôm Hanil Food gói 225g (1t/30 gói)</noodleName>
+        <price>32000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Mì Udon hải sản Hanil Food gói 212g (1t/30 gói)</noodleName>
+        <price>32000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Dấm táo Sempio chai 500ml (1t/12 chai)</noodleName>
+        <price>34000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Tương ớt Regular Sempio hộp 170G (1t/24 hộp)</noodleName>
+        <price>36000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Tương ớt Gochujang Sempio hộp 500g (1t/12 hộp)</noodleName>
+        <price>70000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Tương ớt Gochujang Sempio hộp 1kg (1t/12 hộp)</noodleName>
+        <price>110000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Tương ớt Gochujang Sempio thùng 14kg</noodleName>
+        <price>680000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Đường nâu Hàn Quốc gói 1kg (1t/20 gói)</noodleName>
+        <price>70000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Mì thịt heo bầm Wai Wai ăn liền 60g thùng 30 gói</noodleName>
+        <price>200000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 18 gói Bánh đa cua Vifon Hoàng Gia 120g</noodleName>
+        <price>380000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói mì vị hải sản Miliket Hai Tôm cao cấp 75g</noodleName>
+        <price>190000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói mì Miliket vị gà cao cấp 80g</noodleName>
+        <price>190000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Mì Vị Hương bò hầm sốt vang lốc 5 tô x 80g</noodleName>
+        <price>59000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Mì xào khô Nongshim Neoguri hải sản cay lốc 5 gói x 137g</noodleName>
+        <price>142000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Mì Mama hương tôm Tom yum lốc 6 ly x 60g</noodleName>
+        <price>85000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Mì Mama thịt heo bằm lốc 5 ly x 60g</noodleName>
+        <price>85000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Mì xào khô Samyang gà cay lốc 5 ly x 70g</noodleName>
+        <price>145000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Mì Reeva lẩu nấm chua cay thùng 30 gói x 85g</noodleName>
+        <price>169000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Mì 3 Miền chay lá đa lốc 5 gói x 65g</noodleName>
+        <price>19500.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Mì Kokomi tôm chua cay lốc 5 gói x 65g</noodleName>
+        <price>21000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Mì Vifon chay lẩu Thái lốc 5 gói x 65g</noodleName>
+        <price>27500.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Mì xào khô Indomie Mi Goreng Pedas cay nồng lốc 5 gói x 79g</noodleName>
+        <price>39500.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Mì xào khô Indomie Goreng Rendang bò cay lốc 5 gói x 91g</noodleName>
+        <price>39500.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Mì Vị Hương tôm chua cay lốc 5 gói x 65g</noodleName>
+        <price>17500.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Mì Vị Hương chay canh chua lốc 5 gói x 65g</noodleName>
+        <price>26000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Mì Vị Hương vị tôm lốc 5 gói x 60g</noodleName>
+        <price>24500.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Mì Gấu Đỏ thịt bằm hành phi lốc 5 gói x 64g</noodleName>
+        <price>18000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Mì Gấu Đỏ gà sợi phở lốc 5 gói x 65g</noodleName>
+        <price>18000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Mì Gấu Đỏ tôm chua cay lốc 5 gói x 65g</noodleName>
+        <price>18000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Mì Gấu Đỏ chay rau nấm lốc 5 gói x 63g</noodleName>
+        <price>25000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Mì Tiến Vua tôm chua cay lốc 5 gói x 65g</noodleName>
+        <price>18000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Mì 3 Miền tôm hùm lốc 5 gói x 65g</noodleName>
+        <price>18000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Mì Gấu Đỏ Tôm và Gà lốc 5 gói x 64g</noodleName>
+        <price>18000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Mì Miliket Hai Tôm giấy trắng vị tôm lốc 5 gói x 75g</noodleName>
+        <price>25000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 100 gói mì Vị Hương giấy vàng 60g</noodleName>
+        <price>380000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Mì Miliket giấy vàng vị sa tế lốc 5 gói x 75g</noodleName>
+        <price>25000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói mì Phúc Hảo vị thịt bằm 65g</noodleName>
+        <price>95000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói mì chay Vifon vị rau nấm 65g</noodleName>
+        <price>150000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Mì Miliket chay lốc 5 gói x 70g</noodleName>
+        <price>25000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói mì Phúc Hảo thịt tôm gà 65g</noodleName>
+        <price>95000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Mì 3 Miền Gold lẩu nấm chua cay lốc 5 gói x 75g</noodleName>
+        <price>25000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Mì xào khô Tiểu Nhị thịt xào sốt hành lốc 5 gói x 72g</noodleName>
+        <price>31000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Mì không chiên Nissin 365 Lẩu Thái Hải sản lốc 5 gói x 68g</noodleName>
+        <price>28000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Mì không chiên Nissin 365 xí quách thịt bằm lốc 5 gói x 64g</noodleName>
+        <price>28000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Mì không chiên Nissin 365 tôm chua cay lốc 5 gói x 68g</noodleName>
+        <price>28000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Mì Lovemi lẩu tôm núi lửa lốc 5 gói x 75g</noodleName>
+        <price>29000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Mì Miliket vị gà cao cấp lốc 5 gói x 80g</noodleName>
+        <price>27000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Mì Miliket Hai Tôm Cao cấp hải sản lốc 5 gói x 75g</noodleName>
+        <price>28000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Mì xào Potato bò sốt cay lốc 5 gói x 75g</noodleName>
+        <price>28000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Mì xào Miliket vị gà lốc 5 gói x 85g</noodleName>
+        <price>30000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Mì xào khô Indomie Mi Goreng lốc 5 gói x 85g</noodleName>
+        <price>39500.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Mì xào khô Indomie Mi Goreng Iga Penyet vị sườn lốc 5 gói x 80g</noodleName>
+        <price>39500.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói mì Unif chay nấm đông cô 80g</noodleName>
+        <price>187500.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Mì Mama thịt heo bằm lốc 5 gói x 60g</noodleName>
+        <price>42000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Mì khoai tây Cung Đình thịt hầm nấm lốc 5 gói x 80g</noodleName>
+        <price>42000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Lốc 5 gói mì chay Wai Wai gói 60g</noodleName>
+        <price>47000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Mì khoai tây Cung Đình gà hầm lốc 5 gói x 80g</noodleName>
+        <price>45000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Mì không chiên Mikochi sườn heo lốc 5 gói x 80g</noodleName>
+        <price>45000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Mì khoai tây Cung Đình sườn hầm ngũ quả lốc 5 gói x 80g</noodleName>
+        <price>45000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói Mì khoai tây lẩu tôm chua cay Cung Đình 80g</noodleName>
+        <price>250000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói Mì cua bể rau răm Cung Đình 80g</noodleName>
+        <price>250000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói Mì thịt hầm nấm Cung Đình 80g</noodleName>
+        <price>250000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói Mì gà hầm Cung Đình 80g</noodleName>
+        <price>250000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói Mì sườn hầm ngũ quả Cung Đình 80g</noodleName>
+        <price>250000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói Phở bò Hà Nội Cung Đình 68g</noodleName>
+        <price>250000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói phở gà Cung Đình Hà Nội với nước cốt xương hầm 68g</noodleName>
+        <price>267000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Mì Mộc Việt tôm chua cay 75g x thùng 30 gói</noodleName>
+        <price>187500.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Mì Mộc Việt bò hầm rau thơm 75g x thùng 30 gói</noodleName>
+        <price>187500.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Mì xào khô Indomie Mi Goreng Iga Penyet vị sườn 80g x thùng 40 gói</noodleName>
+        <price>242500.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 100 gói mì Miliket Hai Tôm giấy trắng vị tôm 75g</noodleName>
+        <price>375000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói Mì Miliket giấy vàng vị sa tế 75g</noodleName>
+        <price>150000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói Mì tôm đỏ sa tế Miliket 80g</noodleName>
+        <price>114000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói mì vị sa tế Miliket Hai Tôm cao cấp 75g</noodleName>
+        <price>180000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói mì tôm chua cay Miliket Hai Tôm Cao cấp 75g</noodleName>
+        <price>190000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói Mì Miliket chay 70g</noodleName>
+        <price>150000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói Phở gà Miliket 60g</noodleName>
+        <price>200000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói Hủ tiếu chay ăn liền Miliket 65g</noodleName>
+        <price>210000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói Mì xào Colusa Miliket 85g</noodleName>
+        <price>165000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói Mì Miliket lẩu Thái tôm 80g</noodleName>
+        <price>150000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói Phở bò Miliket 60g</noodleName>
+        <price>230000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói Mì Miliket thập cẩm 70g</noodleName>
+        <price>150000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói Mì lẩu nấm chua cay 3 Miền Gold 75g</noodleName>
+        <price>150000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Phở vị bò Xưa và Nay thùng 24 gói 70g</noodleName>
+        <price>212000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>thùng 30 gói Phở vị bò Vifon 65g</noodleName>
+        <price>270000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói Mì khoai tây Omachi Lovemi tôm chua cay 75g</noodleName>
+        <price>125000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói Mì Kokomi Đại tôm chua cay 75g</noodleName>
+        <price>125000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 24 gói mì trộn Koreno Jjajangmen tương đen 115g</noodleName>
+        <price>357000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói Mì khoai tây Omachi xốt Spaghetti 91g</noodleName>
+        <price>237000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>5 Mì Nongshim Shin Ramyun cay gói 120g</noodleName>
+        <price>150000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Túi 10 gói Mì Koreno Jumbo kim chi 1kg</noodleName>
+        <price>102500.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Túi 10 gói Mì Koreno Jumbo bò cay 1kg</noodleName>
+        <price>102500.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 12 hộp Mì Omachi Business Class tôm thịt và xốt XO 160g</noodleName>
+        <price>343000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>5 gói mì 3 Miền Gold chua cay Thái 75g</noodleName>
+        <price>49000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 24 gói Mì Koreno kim chi 100g</noodleName>
+        <price>300000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 24 ly Mì Nissin hải sản Nhật Bản 67g</noodleName>
+        <price>386000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 24 ly Mì Nissin Thái Tomyum 70g</noodleName>
+        <price>349000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 18 gói Mì Vifon Hoàng Gia thịt bò 120g</noodleName>
+        <price>390000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 18 khay Mì xào spaghetti Vifon Hoàng Gia thịt heo sốt cà 120g</noodleName>
+        <price>370000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 24 gói mì SiuKay vị hải sản 128g</noodleName>
+        <price>291000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 24 gói mì SiuKay vị bò 127g</noodleName>
+        <price>340000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 100 gói Mì Vị Hương vị tôm 60g</noodleName>
+        <price>360000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói mì khoai tây Omachi Special vị bò hầm xốt vang 92g</noodleName>
+        <price>259000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói mì khoai tây Omachi vị tôm chua cay 78g</noodleName>
+        <price>223000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 40 gói Mì xào khô Indomie Mi Goreng Pedas cay nồng 79g</noodleName>
+        <price>242000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 40 gói mì xào khô Indomie Mi Goreng Rasa Rendang vị bò cay 91g</noodleName>
+        <price>242000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 40 gói Mì xào khô Indomie Mi Goreng đặc biệt 85g</noodleName>
+        <price>242000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 18 khay mì xào Phú Gia Vifon vị tương đen 90g</noodleName>
+        <price>270000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 24 ly Mì Caykay vị bò 66g</noodleName>
+        <price>232000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 24 ly Mì chay Handy Hảo Hảo lẩu nấm thập cẩm 66g</noodleName>
+        <price>280000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói Mì Mama hương tôm Tom yum 55g</noodleName>
+        <price>266000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói Mì Mama tôm sốt kem Tom yum 55g</noodleName>
+        <price>267000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 24 gói mì Udon Sưkisưki hương vị Udon Nhật Bản 75g</noodleName>
+        <price>224000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói Mì Vua Bếp kim chi Hàn Quốc 85g</noodleName>
+        <price>224000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 18 khay Mì xào khô Táo Quân thập cẩm 85g</noodleName>
+        <price>207000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói Mì xào New Way rau thập cẩm gói 80g</noodleName>
+        <price>212000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 24 gói mì không chiên Mikochi vị sườn heo 80g</noodleName>
+        <price>195000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói Mì Reeva lẩu nấm chua cay 85g</noodleName>
+        <price>190000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói mì Reeva vị bò hầm cải chua 85g</noodleName>
+        <price>262000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 24 gói mì Mikochi vị lẩu Thái tôm 84g</noodleName>
+        <price>230000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói mì A-One vị gà 85g</noodleName>
+        <price>195000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói Mì trộn A-One tương tàu 85g</noodleName>
+        <price>195000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói mì A-One vị thịt xào 85g</noodleName>
+        <price>195000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói Mì xào khô Tiểu Nhị thịt xào sốt hành 72g</noodleName>
+        <price>131000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói mì xào khô Tiểu Nhị vị hải sản sốt me 72g</noodleName>
+        <price>143000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói Mì Unif bò rau thơm 72g</noodleName>
+        <price>131000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói Mì xào khô Tiểu Nhị thịt sốt chua cay 72g</noodleName>
+        <price>131000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói mì Hảo Hảo hương vị sườn heo tỏi phi 73g</noodleName>
+        <price>150000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói Mì Hảo Hảo gà vàng 74g</noodleName>
+        <price>131000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói Mì Hảo Hảo sa tế hành tím 75g</noodleName>
+        <price>150000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói mì Doraemon vị bò cuộn phô mai 62g</noodleName>
+        <price>132000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói mì chay Vifon vị lẩu Thái 65g</noodleName>
+        <price>150000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói Mì Kokomi Đại bò hầm rau thơm 75g</noodleName>
+        <price>124000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói mì Vị Hương vị sa tế 70g</noodleName>
+        <price>120000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói Mì Tiến Vua tôm chua cay 65g</noodleName>
+        <price>68000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 12 ly Mì A-One vị bò 65g</noodleName>
+        <price>150000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 12 ly Mì A-One thịt xào 65g</noodleName>
+        <price>150000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói Mì Gấu Đỏ gà sợi phở 65g</noodleName>
+        <price>70000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói Mì 3 Miền bò rau thơm 60g</noodleName>
+        <price>85000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Gói 12 vắt Mì không chiên New Way 720g</noodleName>
+        <price>51000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>5 Mì Nongshim Champong hải sản gói 124g</noodleName>
+        <price>45000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói Mì Vifon gà tím 75g</noodleName>
+        <price>170000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói gà Đệ Nhất 65g</noodleName>
+        <price>166000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 24 gói miến sườn heo Phú Hương 58g</noodleName>
+        <price>257000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói miến thịt heo nấu măng Phú Hương 57g</noodleName>
+        <price>257000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 24 gói miến Phú Hương hương vị lẩu Thái tôm 63g</noodleName>
+        <price>269000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 24 gói miến Phú Hương thịt bằm 58g</noodleName>
+        <price>263000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 24 gói miến xào xốt cua Phú Hương 60g</noodleName>
+        <price>378000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói Bún riêu cua Vifon 80g</noodleName>
+        <price>350000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Bún Bò Huế Hằng Nga Acecook thùng 30 gói x 73g</noodleName>
+        <price>225000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói Bún bò Huế Vifon 65g</noodleName>
+        <price>270000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>5 Phở vị bò Đệ Nhất gói 65g</noodleName>
+        <price>40500.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>5 Phở gà Đệ Nhất gói 65g</noodleName>
+        <price>40500.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 18 gói phở vị thập cẩm cay Đệ Nhất 82g</noodleName>
+        <price>206000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>5 Phở thịt gà Vifon Hoàng Gia gói 120g</noodleName>
+        <price>119000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>5 Phở vị bò Xưa và Nay gói 70g</noodleName>
+        <price>50500.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>5 Phở gà Hà Nội Cung Đình gói 68g</noodleName>
+        <price>49000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>5 Phở bò Hà Nội Cung Đình gói 68g</noodleName>
+        <price>49000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>5 Phở vị bò Vifon gói 65g</noodleName>
+        <price>44500.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>5 Phở khô pad Thái Mama gói 70g</noodleName>
+        <price>50500.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>5 Phở chay truyền thống Lá Bồ Đề gói 70g</noodleName>
+        <price>35000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>10 Phở phở gà Như Ý gói 65g</noodleName>
+        <price>54000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>5 Cháo yến thịt bằm Yến Việt gói 50g</noodleName>
+        <price>55000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>5 Cháo đậu xanh thịt bằm Shangha ly 50g</noodleName>
+        <price>57000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>3 Cháo tươi tổ yến cá hồi SG Food gói 240g</noodleName>
+        <price>131000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>3 Cháo tươi tổ yến hạt sen lá dứa SG Food gói 240g</noodleName>
+        <price>131000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>3 Cháo tươi cá hồi đậu Hà Lan SG Food gói 270g</noodleName>
+        <price>109000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>3 Cháo tươi cá hồi cải bó xôi SG Food gói 240g</noodleName>
+        <price>105000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>3 Cháo tươi tôm rau ngót cà rốt SG Food gói 240g</noodleName>
+        <price>105000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>3 Cháo tươi lươn đậu xanh SG Food gói 270g</noodleName>
+        <price>90000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>3 Cháo tươi bò đậu Hà Lan cà rốt SG Food gói 240g</noodleName>
+        <price>90000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>10 mì chay rau nấm Lá Bồ Đề gói 63g</noodleName>
+        <price>47000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói Hủ tiếu sườn heo ăn liền Nhịp Sống 70g</noodleName>
+        <price>248000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói Hủ tiếu bò kho ăn liền Nhịp Sống 70g</noodleName>
+        <price>248000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói Bún chay WaiWai 60g</noodleName>
+        <price>244000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói Bún mắm Hằng Nga 75g</noodleName>
+        <price>234000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói Bún gạo khô ăn liền Bihun Goreng Mama 55g</noodleName>
+        <price>220000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói hủ tiếu xào Như Ý xốt hương vị bò sa tế gói 70g</noodleName>
+        <price>217000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 100 gói Mì Miliket Hai Tôm giấy trắng vị tôm 65g</noodleName>
+        <price>355000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói mì chay nấm hương Bình Tây 80g</noodleName>
+        <price>144000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói mì A-One Kim chi Tôm 85g</noodleName>
+        <price>195000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói mì A-One vị bò 85g</noodleName>
+        <price>195000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói mì A-One tôm chua Thái 85g</noodleName>
+        <price>195000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói mì A-One vị tôm 85g</noodleName>
+        <price>195000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 20 gói Mì Jin Rong Biển Ottogi 120g</noodleName>
+        <price>250000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 20 gói Mì Jin Lá Kim Ottogi Gói 122g</noodleName>
+        <price>288000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói mì chùm ngây Moringa 70g</noodleName>
+        <price>225000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 24 Gói Mì Xào Cay Gà Phomai Volcano Koreno Paldo 118g</noodleName>
+        <price>450000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói Mì hoành thánh hương vị tôm Vina Acecook 76g</noodleName>
+        <price>230000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói mì Hít Hà lẩu tôm ớt hiểm 78g</noodleName>
+        <price>187500.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 18 Gói Phở Trộn Khô Đệ Nhất Vị Thập Cẩm 82g</noodleName>
+        <price>195000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 10 Gói Miến Phú Hương Yến Tiệc 210G</noodleName>
+        <price>350000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 24 gói Miến chay nấm rau cải 50g</noodleName>
+        <price>270000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 24 gói mì spaghetti Bistro xốt kem phô mai kiểu Ý 100g</noodleName>
+        <price>348000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 24 gói Mì không chiên Samưrai hương vị sườn heo 79g</noodleName>
+        <price>258000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói mì chay rau nấm cao cấp Topa 75g</noodleName>
+        <price>125000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói mì chay thập cẩm Mivimex 65g</noodleName>
+        <price>125000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói Hủ tiếu chay nấm hương ăn liền Bích Chi gói 60g</noodleName>
+        <price>150000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 24 gói mì spaghetti Bistro xốt bò bằm kiểu Ý 95g</noodleName>
+        <price>324000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói phở Đệ Nhất vị nghêu 64g</noodleName>
+        <price>206000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 18 gói Hủ tiếu Nam Vang ăn liền Vifon Hoàng Gia gói 120g</noodleName>
+        <price>339000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói mì Hít Hà vị gà xé chua cay 79g</noodleName>
+        <price>187500.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 12 hộp mì khoai tây Omachi trộn xốt tôm phô mai trứng muối 105g</noodleName>
+        <price>220000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói mì Doraemon vị tôm gà tỏi phi 63g</noodleName>
+        <price>160000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 50 gói cháo sườn Vifon 70g</noodleName>
+        <price>450000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói phở chay Vina Bích Chi 50g</noodleName>
+        <price>177000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói mì chay A-One Hương Sen 85g</noodleName>
+        <price>195000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 100 gói mì Hảo 100 tôm chua cay 65g</noodleName>
+        <price>325000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 24 gói mì Koreno vị bò cay 100g</noodleName>
+        <price>300000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 30 gói mì A-One hương vị sa tế 85g</noodleName>
+        <price>195000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 24 gói Mì Koreno vị Nấm 100g</noodleName>
+        <price>300000.0</price>
+    </noodle>
+    <noodle>
+        <noodleName>Thùng 12 ly Phở bò Đệ Nhất 58g</noodleName>
+        <price>170000.0</price>
+    </noodle>
+</noodles>

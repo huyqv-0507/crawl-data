@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+<urls xmlns="http://www.centralregiondonate.appurl.com"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.centralregiondonate.appurl.com appURL.xsd">
+    <url>
+        <rootUrl>
+            https://www.pharmacity.vn/danh-muc-san-pham/thuoc-khong-ke-don/
+        </rootUrl>
+        <categoriesUrl>
+            <categoryUrl>
+                otc-thuoc-cam-lanh-ho
+            </categoryUrl>
+            <categoryUrl>
+                otc-giam-dau-ha-sot
+            </categoryUrl>
+            <categoryUrl>
+                otc-thuoc-da-lieu
+            </categoryUrl>
+            <categoryUrl>
+                otc-thuoc-khang-di-ung
+            </categoryUrl>
+            <categoryUrl>
+                otc-thuoc-khang-viem
+            </categoryUrl>
+            <categoryUrl>
+                otc-thuoc-tieu-hoa
+            </categoryUrl>
+            <categoryUrl>
+                otc-vitamin-khoang-chat
+            </categoryUrl>
+        </categoriesUrl>
+    </url>
+    <url>
+        <rootUrl>http://thieulamua.com/danh-muc/</rootUrl>
+        <categoriesUrl>
+            <categoryUrl>thuc-pham-an-lien/</categoryUrl>
+        </categoriesUrl>
+    </url>
+</urls>

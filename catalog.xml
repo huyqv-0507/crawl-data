@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="file:/C:/Users/Huy%20Nguyen/Documents/NetBeansProjects/CentralRegionDonate/src/java/centralregiondonate/huynl/schemas/medicines.xsd" uri="src/conf/xml-resources/jaxb/medicines/medicines.xsd"/>
+</catalog>
